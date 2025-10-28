@@ -1,12 +1,9 @@
 services:
   - type: web
-    name: flask-recommendations
-    env: python
+    name: flask-recommender
+    env: docker
     plan: free
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "gunicorn app:app"
+    dockerfilePath: ./Dockerfile
     envVars:
-      - key: PORT
-        value: 10000
       - key: MONGO_URL
         sync: false
