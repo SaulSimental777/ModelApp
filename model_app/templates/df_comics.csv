@@ -1,0 +1,751 @@
+comic_id,title,category,genre
+1,Iron Man (2020) #5,marvel,suspenso
+2,Aquaman (2018) #6,dc,suspenso
+3,Attack on Titan Vol.3,animanga,acción
+4,300,miscellaneous,terror
+5,Doctor Strange (2016) #3,marvel,cotidiano
+6,Shazam! (2019) #1,dc,fantasía
+7,Naruto Vol.1,animanga,suspenso
+8,Kick-Ass Vol.1,miscellaneous,acción
+9,Thor: God of Thunder,marvel,suspenso
+10,Wonder Woman (2017) #4,dc,terror
+11,Nichijou Vol.1,animanga,comedia
+12,Invincible Vol.2,miscellaneous,superhéroes
+13,Captain America (2019) #10,marvel,comedia
+14,The Joker: Killing Joke,dc,acción
+15,My Hero Academia Vol.1,animanga,cotidiano
+16,Watchmen,miscellaneous,comedia
+17,Thor: God of Thunder,marvel,cotidiano
+18,Aquaman (2018) #6,dc,superhéroes
+19,K-On! Vol.2,animanga,fantasía
+20,Saga Vol.1,miscellaneous,cotidiano
+21,Captain America (2019) #10,marvel,comedia
+22,Wonder Woman (2017) #4,dc,suspenso
+23,One Piece Vol.2,animanga,acción
+24,Kick-Ass Vol.1,miscellaneous,comedia
+25,Thor: God of Thunder,marvel,terror
+26,Wonder Woman (2017) #4,dc,superhéroes
+27,One Piece Vol.2,animanga,comedia
+28,Saga Vol.1,miscellaneous,terror
+29,Doctor Strange (2016) #3,marvel,terror
+30,Shazam! (2019) #1,dc,comedia
+31,Attack on Titan Vol.3,animanga,cotidiano
+32,Saga Vol.1,miscellaneous,comedia
+33,Venom (2018) #1,marvel,comedia
+34,The Joker: Killing Joke,dc,suspenso
+35,Naruto Vol.1,animanga,comedia
+36,300,miscellaneous,cotidiano
+37,X-Men: Dark Phoenix Saga,marvel,suspenso
+38,Wonder Woman (2017) #4,dc,acción
+39,Nichijou Vol.1,animanga,terror
+40,Sin City: The Hard Goodbye,miscellaneous,suspenso
+41,Doctor Strange (2016) #3,marvel,terror
+42,The Flash: Rebirth,dc,acción
+43,One Piece Vol.2,animanga,suspenso
+44,Hellboy: Seed of Destruction,miscellaneous,terror
+45,Black Panther (2018) #2,marvel,acción
+46,Wonder Woman (2017) #4,dc,suspenso
+47,Naruto Vol.1,animanga,acción
+48,Locke & Key Vol.1,miscellaneous,acción
+49,Spider-Man: Blue,marvel,superhéroes
+50,Green Lantern: Blackest Night,dc,cotidiano
+51,One Piece Vol.2,animanga,terror
+52,Watchmen,miscellaneous,superhéroes
+53,X-Men: Dark Phoenix Saga,marvel,suspenso
+54,Batman: Hush,dc,fantasía
+55,K-On! Vol.2,animanga,suspenso
+56,Invincible Vol.2,miscellaneous,fantasía
+57,Iron Man (2020) #5,marvel,cotidiano
+58,Batman: Hush,dc,superhéroes
+59,Tokyo Ghoul Vol.2,animanga,fantasía
+60,Saga Vol.1,miscellaneous,superhéroes
+61,Thor: God of Thunder,marvel,cotidiano
+62,Nightwing (2016) #8,dc,superhéroes
+63,Dragon Ball Vol.10,animanga,superhéroes
+64,Invincible Vol.2,miscellaneous,fantasía
+65,Avengers: Endgame Prelude,marvel,acción
+66,Nightwing (2016) #8,dc,fantasía
+67,My Hero Academia Vol.1,animanga,terror
+68,Sandman Vol.1,miscellaneous,cotidiano
+69,Avengers: Endgame Prelude,marvel,comedia
+70,Nightwing (2016) #8,dc,suspenso
+71,One Piece Vol.2,animanga,comedia
+72,Invincible Vol.2,miscellaneous,terror
+73,Doctor Strange (2016) #3,marvel,terror
+74,Justice League: Origin,dc,fantasía
+75,Bleach Vol.5,animanga,fantasía
+76,Sandman Vol.1,miscellaneous,terror
+77,Wolverine: Origins,marvel,suspenso
+78,Nightwing (2016) #8,dc,superhéroes
+79,One Punch Man Vol.1,animanga,terror
+80,Invincible Vol.2,miscellaneous,superhéroes
+81,Black Panther (2018) #2,marvel,fantasía
+82,The Flash: Rebirth,dc,suspenso
+83,Dragon Ball Vol.10,animanga,terror
+84,Sandman Vol.1,miscellaneous,suspenso
+85,Spider-Man: Blue,marvel,terror
+86,Nightwing (2016) #8,dc,superhéroes
+87,Nichijou Vol.1,animanga,comedia
+88,Locke & Key Vol.1,miscellaneous,cotidiano
+89,Venom (2018) #1,marvel,comedia
+90,Green Lantern: Blackest Night,dc,suspenso
+91,My Hero Academia Vol.1,animanga,suspenso
+92,The Walking Dead Vol.1,miscellaneous,fantasía
+93,X-Men: Dark Phoenix Saga,marvel,fantasía
+94,Green Lantern: Blackest Night,dc,terror
+95,Naruto Vol.1,animanga,cotidiano
+96,300,miscellaneous,fantasía
+97,Iron Man (2020) #5,marvel,cotidiano
+98,Batman: Hush,dc,acción
+99,Attack on Titan Vol.3,animanga,fantasía
+100,Locke & Key Vol.1,miscellaneous,superhéroes
+101,Wolverine: Origins,marvel,terror
+102,Justice League: Origin,dc,fantasía
+103,Bleach Vol.5,animanga,suspenso
+104,Saga Vol.1,miscellaneous,fantasía
+105,Wolverine: Origins,marvel,fantasía
+106,Wonder Woman (2017) #4,dc,terror
+107,My Hero Academia Vol.1,animanga,suspenso
+108,Watchmen,miscellaneous,acción
+109,Thor: God of Thunder,marvel,acción
+110,Wonder Woman (2017) #4,dc,comedia
+111,Tokyo Ghoul Vol.2,animanga,superhéroes
+112,Sandman Vol.1,miscellaneous,cotidiano
+113,Black Panther (2018) #2,marvel,cotidiano
+114,Shazam! (2019) #1,dc,acción
+115,Attack on Titan Vol.3,animanga,terror
+116,Invincible Vol.2,miscellaneous,superhéroes
+117,X-Men: Dark Phoenix Saga,marvel,superhéroes
+118,Wonder Woman (2017) #4,dc,superhéroes
+119,Chainsaw Man Vol.1,animanga,acción
+120,The Walking Dead Vol.1,miscellaneous,acción
+121,Iron Man (2020) #5,marvel,cotidiano
+122,Green Lantern: Blackest Night,dc,fantasía
+123,Tokyo Ghoul Vol.2,animanga,superhéroes
+124,Saga Vol.1,miscellaneous,fantasía
+125,Wolverine: Origins,marvel,comedia
+126,Green Lantern: Blackest Night,dc,acción
+127,Attack on Titan Vol.3,animanga,acción
+128,Sandman Vol.1,miscellaneous,acción
+129,Venom (2018) #1,marvel,superhéroes
+130,Aquaman (2018) #6,dc,acción
+131,Nichijou Vol.1,animanga,fantasía
+132,Hellboy: Seed of Destruction,miscellaneous,acción
+133,Avengers: Endgame Prelude,marvel,superhéroes
+134,Batman: Hush,dc,comedia
+135,Nichijou Vol.1,animanga,terror
+136,Invincible Vol.2,miscellaneous,fantasía
+137,Iron Man (2020) #5,marvel,comedia
+138,Batman: Hush,dc,acción
+139,Bleach Vol.5,animanga,cotidiano
+140,Saga Vol.1,miscellaneous,comedia
+141,Captain America (2019) #10,marvel,terror
+142,Nightwing (2016) #8,dc,comedia
+143,Tokyo Ghoul Vol.2,animanga,fantasía
+144,Sin City: The Hard Goodbye,miscellaneous,suspenso
+145,X-Men: Dark Phoenix Saga,marvel,cotidiano
+146,Green Lantern: Blackest Night,dc,cotidiano
+147,Attack on Titan Vol.3,animanga,acción
+148,Sandman Vol.1,miscellaneous,cotidiano
+149,Venom (2018) #1,marvel,comedia
+150,Aquaman (2018) #6,dc,comedia
+151,Bleach Vol.5,animanga,acción
+152,Watchmen,miscellaneous,cotidiano
+153,Wolverine: Origins,marvel,cotidiano
+154,Justice League: Origin,dc,fantasía
+155,One Piece Vol.2,animanga,fantasía
+156,The Walking Dead Vol.1,miscellaneous,acción
+157,Thor: God of Thunder,marvel,cotidiano
+158,Green Lantern: Blackest Night,dc,terror
+159,Attack on Titan Vol.3,animanga,fantasía
+160,Hellboy: Seed of Destruction,miscellaneous,acción
+161,Venom (2018) #1,marvel,suspenso
+162,Superman: Red Son,dc,superhéroes
+163,Nichijou Vol.1,animanga,superhéroes
+164,Saga Vol.1,miscellaneous,comedia
+165,Thor: God of Thunder,marvel,cotidiano
+166,Justice League: Origin,dc,comedia
+167,Attack on Titan Vol.3,animanga,comedia
+168,Locke & Key Vol.1,miscellaneous,suspenso
+169,Black Panther (2018) #2,marvel,acción
+170,Batman: Hush,dc,terror
+171,My Hero Academia Vol.1,animanga,cotidiano
+172,Sandman Vol.1,miscellaneous,fantasía
+173,Doctor Strange (2016) #3,marvel,cotidiano
+174,Aquaman (2018) #6,dc,suspenso
+175,One Piece Vol.2,animanga,cotidiano
+176,Saga Vol.1,miscellaneous,suspenso
+177,Doctor Strange (2016) #3,marvel,acción
+178,Wonder Woman (2017) #4,dc,fantasía
+179,Nichijou Vol.1,animanga,comedia
+180,Invincible Vol.2,miscellaneous,suspenso
+181,Spider-Man: Blue,marvel,suspenso
+182,Aquaman (2018) #6,dc,comedia
+183,K-On! Vol.2,animanga,terror
+184,Sandman Vol.1,miscellaneous,suspenso
+185,Captain America (2019) #10,marvel,suspenso
+186,Nightwing (2016) #8,dc,comedia
+187,Attack on Titan Vol.3,animanga,suspenso
+188,Locke & Key Vol.1,miscellaneous,suspenso
+189,Iron Man (2020) #5,marvel,suspenso
+190,Justice League: Origin,dc,fantasía
+191,Nichijou Vol.1,animanga,suspenso
+192,Sin City: The Hard Goodbye,miscellaneous,suspenso
+193,Wolverine: Origins,marvel,acción
+194,Justice League: Origin,dc,acción
+195,Attack on Titan Vol.3,animanga,terror
+196,Saga Vol.1,miscellaneous,comedia
+197,Thor: God of Thunder,marvel,suspenso
+198,Shazam! (2019) #1,dc,cotidiano
+199,K-On! Vol.2,animanga,fantasía
+200,Saga Vol.1,miscellaneous,suspenso
+201,Black Panther (2018) #2,marvel,fantasía
+202,Batman: Hush,dc,acción
+203,Nichijou Vol.1,animanga,comedia
+204,300,miscellaneous,comedia
+205,Iron Man (2020) #5,marvel,cotidiano
+206,Shazam! (2019) #1,dc,superhéroes
+207,One Piece Vol.2,animanga,superhéroes
+208,Sandman Vol.1,miscellaneous,terror
+209,Captain America (2019) #10,marvel,suspenso
+210,Wonder Woman (2017) #4,dc,suspenso
+211,K-On! Vol.2,animanga,terror
+212,The Walking Dead Vol.1,miscellaneous,terror
+213,Black Panther (2018) #2,marvel,suspenso
+214,Aquaman (2018) #6,dc,superhéroes
+215,K-On! Vol.2,animanga,cotidiano
+216,The Walking Dead Vol.1,miscellaneous,fantasía
+217,Black Panther (2018) #2,marvel,acción
+218,Aquaman (2018) #6,dc,cotidiano
+219,Bleach Vol.5,animanga,suspenso
+220,Locke & Key Vol.1,miscellaneous,cotidiano
+221,Thor: God of Thunder,marvel,comedia
+222,Shazam! (2019) #1,dc,superhéroes
+223,Naruto Vol.1,animanga,suspenso
+224,Locke & Key Vol.1,miscellaneous,cotidiano
+225,Captain America (2019) #10,marvel,cotidiano
+226,Green Lantern: Blackest Night,dc,fantasía
+227,Dragon Ball Vol.10,animanga,suspenso
+228,Invincible Vol.2,miscellaneous,suspenso
+229,Doctor Strange (2016) #3,marvel,comedia
+230,Batman: Hush,dc,suspenso
+231,Tokyo Ghoul Vol.2,animanga,superhéroes
+232,The Walking Dead Vol.1,miscellaneous,terror
+233,Avengers: Endgame Prelude,marvel,acción
+234,The Joker: Killing Joke,dc,acción
+235,Bleach Vol.5,animanga,cotidiano
+236,The Walking Dead Vol.1,miscellaneous,cotidiano
+237,Iron Man (2020) #5,marvel,suspenso
+238,Superman: Red Son,dc,acción
+239,Bleach Vol.5,animanga,terror
+240,Kick-Ass Vol.1,miscellaneous,terror
+241,Venom (2018) #1,marvel,acción
+242,Shazam! (2019) #1,dc,cotidiano
+243,One Punch Man Vol.1,animanga,terror
+244,Watchmen,miscellaneous,suspenso
+245,Iron Man (2020) #5,marvel,superhéroes
+246,Nightwing (2016) #8,dc,cotidiano
+247,Naruto Vol.1,animanga,comedia
+248,Kick-Ass Vol.1,miscellaneous,comedia
+249,X-Men: Dark Phoenix Saga,marvel,superhéroes
+250,Batman: Hush,dc,cotidiano
+251,Tokyo Ghoul Vol.2,animanga,acción
+252,Saga Vol.1,miscellaneous,terror
+253,Venom (2018) #1,marvel,superhéroes
+254,Batman: Hush,dc,terror
+255,K-On! Vol.2,animanga,comedia
+256,300,miscellaneous,cotidiano
+257,Captain America (2019) #10,marvel,acción
+258,Green Lantern: Blackest Night,dc,terror
+259,Nichijou Vol.1,animanga,cotidiano
+260,Watchmen,miscellaneous,suspenso
+261,Spider-Man: Blue,marvel,suspenso
+262,Nightwing (2016) #8,dc,fantasía
+263,Dragon Ball Vol.10,animanga,fantasía
+264,Sin City: The Hard Goodbye,miscellaneous,acción
+265,Venom (2018) #1,marvel,acción
+266,Wonder Woman (2017) #4,dc,suspenso
+267,One Punch Man Vol.1,animanga,cotidiano
+268,300,miscellaneous,terror
+269,Thor: God of Thunder,marvel,acción
+270,Nightwing (2016) #8,dc,fantasía
+271,Nichijou Vol.1,animanga,superhéroes
+272,The Walking Dead Vol.1,miscellaneous,superhéroes
+273,Doctor Strange (2016) #3,marvel,terror
+274,Green Lantern: Blackest Night,dc,cotidiano
+275,Chainsaw Man Vol.1,animanga,fantasía
+276,Kick-Ass Vol.1,miscellaneous,acción
+277,Spider-Man: Blue,marvel,comedia
+278,Aquaman (2018) #6,dc,suspenso
+279,Tokyo Ghoul Vol.2,animanga,suspenso
+280,Sin City: The Hard Goodbye,miscellaneous,fantasía
+281,Wolverine: Origins,marvel,comedia
+282,Aquaman (2018) #6,dc,cotidiano
+283,Bleach Vol.5,animanga,acción
+284,Sin City: The Hard Goodbye,miscellaneous,suspenso
+285,Doctor Strange (2016) #3,marvel,superhéroes
+286,Shazam! (2019) #1,dc,suspenso
+287,Nichijou Vol.1,animanga,acción
+288,Hellboy: Seed of Destruction,miscellaneous,superhéroes
+289,Captain America (2019) #10,marvel,cotidiano
+290,The Flash: Rebirth,dc,fantasía
+291,Bleach Vol.5,animanga,comedia
+292,Locke & Key Vol.1,miscellaneous,comedia
+293,Venom (2018) #1,marvel,suspenso
+294,Aquaman (2018) #6,dc,acción
+295,Demon Slayer Vol.3,animanga,superhéroes
+296,Invincible Vol.2,miscellaneous,superhéroes
+297,Avengers: Endgame Prelude,marvel,cotidiano
+298,Batman: Hush,dc,fantasía
+299,One Punch Man Vol.1,animanga,superhéroes
+300,Kick-Ass Vol.1,miscellaneous,terror
+301,X-Men: Dark Phoenix Saga,marvel,cotidiano
+302,The Flash: Rebirth,dc,fantasía
+303,My Hero Academia Vol.1,animanga,acción
+304,Sandman Vol.1,miscellaneous,cotidiano
+305,Black Panther (2018) #2,marvel,terror
+306,Shazam! (2019) #1,dc,acción
+307,Bleach Vol.5,animanga,terror
+308,Sin City: The Hard Goodbye,miscellaneous,cotidiano
+309,X-Men: Dark Phoenix Saga,marvel,fantasía
+310,Superman: Red Son,dc,suspenso
+311,Dragon Ball Vol.10,animanga,suspenso
+312,300,miscellaneous,suspenso
+313,Avengers: Endgame Prelude,marvel,acción
+314,Nightwing (2016) #8,dc,suspenso
+315,Tokyo Ghoul Vol.2,animanga,acción
+316,Kick-Ass Vol.1,miscellaneous,cotidiano
+317,Thor: God of Thunder,marvel,terror
+318,Green Lantern: Blackest Night,dc,terror
+319,Tokyo Ghoul Vol.2,animanga,terror
+320,Sin City: The Hard Goodbye,miscellaneous,fantasía
+321,Wolverine: Origins,marvel,suspenso
+322,Aquaman (2018) #6,dc,comedia
+323,Nichijou Vol.1,animanga,superhéroes
+324,Kick-Ass Vol.1,miscellaneous,cotidiano
+325,Spider-Man: Blue,marvel,suspenso
+326,Superman: Red Son,dc,suspenso
+327,Bleach Vol.5,animanga,terror
+328,Locke & Key Vol.1,miscellaneous,suspenso
+329,Black Panther (2018) #2,marvel,terror
+330,Batman: Hush,dc,suspenso
+331,Bleach Vol.5,animanga,terror
+332,Watchmen,miscellaneous,acción
+333,Captain America (2019) #10,marvel,comedia
+334,The Flash: Rebirth,dc,comedia
+335,Tokyo Ghoul Vol.2,animanga,cotidiano
+336,Sandman Vol.1,miscellaneous,terror
+337,Captain America (2019) #10,marvel,superhéroes
+338,The Flash: Rebirth,dc,suspenso
+339,Demon Slayer Vol.3,animanga,superhéroes
+340,Sin City: The Hard Goodbye,miscellaneous,superhéroes
+341,Venom (2018) #1,marvel,suspenso
+342,Wonder Woman (2017) #4,dc,superhéroes
+343,Nichijou Vol.1,animanga,fantasía
+344,Sin City: The Hard Goodbye,miscellaneous,suspenso
+345,Iron Man (2020) #5,marvel,superhéroes
+346,Superman: Red Son,dc,suspenso
+347,Bleach Vol.5,animanga,comedia
+348,Sin City: The Hard Goodbye,miscellaneous,fantasía
+349,Wolverine: Origins,marvel,acción
+350,The Flash: Rebirth,dc,terror
+351,One Punch Man Vol.1,animanga,acción
+352,300,miscellaneous,acción
+353,Thor: God of Thunder,marvel,terror
+354,Green Lantern: Blackest Night,dc,comedia
+355,Chainsaw Man Vol.1,animanga,cotidiano
+356,300,miscellaneous,suspenso
+357,Avengers: Endgame Prelude,marvel,acción
+358,Wonder Woman (2017) #4,dc,suspenso
+359,K-On! Vol.2,animanga,suspenso
+360,Locke & Key Vol.1,miscellaneous,cotidiano
+361,Thor: God of Thunder,marvel,comedia
+362,Nightwing (2016) #8,dc,cotidiano
+363,One Punch Man Vol.1,animanga,cotidiano
+364,Sandman Vol.1,miscellaneous,suspenso
+365,Iron Man (2020) #5,marvel,comedia
+366,The Flash: Rebirth,dc,terror
+367,Tokyo Ghoul Vol.2,animanga,terror
+368,Invincible Vol.2,miscellaneous,comedia
+369,Spider-Man: Blue,marvel,comedia
+370,Superman: Red Son,dc,suspenso
+371,Nichijou Vol.1,animanga,cotidiano
+372,Hellboy: Seed of Destruction,miscellaneous,comedia
+373,Iron Man (2020) #5,marvel,cotidiano
+374,Wonder Woman (2017) #4,dc,acción
+375,My Hero Academia Vol.1,animanga,fantasía
+376,Sandman Vol.1,miscellaneous,fantasía
+377,Spider-Man: Blue,marvel,fantasía
+378,Wonder Woman (2017) #4,dc,fantasía
+379,One Punch Man Vol.1,animanga,fantasía
+380,Sandman Vol.1,miscellaneous,fantasía
+381,Thor: God of Thunder,marvel,comedia
+382,The Flash: Rebirth,dc,comedia
+383,Attack on Titan Vol.3,animanga,superhéroes
+384,Watchmen,miscellaneous,cotidiano
+385,Iron Man (2020) #5,marvel,comedia
+386,Shazam! (2019) #1,dc,superhéroes
+387,Dragon Ball Vol.10,animanga,fantasía
+388,300,miscellaneous,fantasía
+389,Thor: God of Thunder,marvel,superhéroes
+390,Justice League: Origin,dc,fantasía
+391,One Punch Man Vol.1,animanga,comedia
+392,Saga Vol.1,miscellaneous,terror
+393,Doctor Strange (2016) #3,marvel,superhéroes
+394,Wonder Woman (2017) #4,dc,superhéroes
+395,K-On! Vol.2,animanga,superhéroes
+396,Sin City: The Hard Goodbye,miscellaneous,suspenso
+397,Venom (2018) #1,marvel,fantasía
+398,Batman: Hush,dc,suspenso
+399,One Punch Man Vol.1,animanga,suspenso
+400,Sin City: The Hard Goodbye,miscellaneous,comedia
+401,Avengers: Endgame Prelude,marvel,terror
+402,Green Lantern: Blackest Night,dc,acción
+403,Bleach Vol.5,animanga,cotidiano
+404,Sin City: The Hard Goodbye,miscellaneous,comedia
+405,Venom (2018) #1,marvel,terror
+406,Nightwing (2016) #8,dc,terror
+407,Nichijou Vol.1,animanga,superhéroes
+408,Locke & Key Vol.1,miscellaneous,comedia
+409,Wolverine: Origins,marvel,terror
+410,Superman: Red Son,dc,fantasía
+411,One Punch Man Vol.1,animanga,fantasía
+412,Locke & Key Vol.1,miscellaneous,comedia
+413,X-Men: Dark Phoenix Saga,marvel,terror
+414,Superman: Red Son,dc,suspenso
+415,Nichijou Vol.1,animanga,superhéroes
+416,The Walking Dead Vol.1,miscellaneous,cotidiano
+417,Spider-Man: Blue,marvel,terror
+418,The Joker: Killing Joke,dc,fantasía
+419,Dragon Ball Vol.10,animanga,suspenso
+420,Sin City: The Hard Goodbye,miscellaneous,suspenso
+421,Iron Man (2020) #5,marvel,fantasía
+422,Batman: Hush,dc,acción
+423,My Hero Academia Vol.1,animanga,acción
+424,Kick-Ass Vol.1,miscellaneous,terror
+425,Avengers: Endgame Prelude,marvel,suspenso
+426,The Flash: Rebirth,dc,cotidiano
+427,My Hero Academia Vol.1,animanga,acción
+428,Hellboy: Seed of Destruction,miscellaneous,suspenso
+429,Thor: God of Thunder,marvel,fantasía
+430,Aquaman (2018) #6,dc,comedia
+431,Naruto Vol.1,animanga,superhéroes
+432,The Walking Dead Vol.1,miscellaneous,comedia
+433,Iron Man (2020) #5,marvel,suspenso
+434,Wonder Woman (2017) #4,dc,suspenso
+435,One Piece Vol.2,animanga,comedia
+436,Saga Vol.1,miscellaneous,comedia
+437,X-Men: Dark Phoenix Saga,marvel,suspenso
+438,Aquaman (2018) #6,dc,acción
+439,Tokyo Ghoul Vol.2,animanga,cotidiano
+440,Kick-Ass Vol.1,miscellaneous,cotidiano
+441,Captain America (2019) #10,marvel,terror
+442,Aquaman (2018) #6,dc,acción
+443,My Hero Academia Vol.1,animanga,terror
+444,The Walking Dead Vol.1,miscellaneous,acción
+445,Thor: God of Thunder,marvel,terror
+446,Green Lantern: Blackest Night,dc,terror
+447,Naruto Vol.1,animanga,suspenso
+448,Sin City: The Hard Goodbye,miscellaneous,cotidiano
+449,X-Men: Dark Phoenix Saga,marvel,terror
+450,Green Lantern: Blackest Night,dc,suspenso
+451,Bleach Vol.5,animanga,comedia
+452,Locke & Key Vol.1,miscellaneous,fantasía
+453,Iron Man (2020) #5,marvel,comedia
+454,The Joker: Killing Joke,dc,suspenso
+455,K-On! Vol.2,animanga,comedia
+456,Sin City: The Hard Goodbye,miscellaneous,comedia
+457,Spider-Man: Blue,marvel,comedia
+458,The Joker: Killing Joke,dc,suspenso
+459,Attack on Titan Vol.3,animanga,suspenso
+460,Sandman Vol.1,miscellaneous,fantasía
+461,X-Men: Dark Phoenix Saga,marvel,terror
+462,The Flash: Rebirth,dc,comedia
+463,K-On! Vol.2,animanga,acción
+464,Saga Vol.1,miscellaneous,acción
+465,Doctor Strange (2016) #3,marvel,acción
+466,The Joker: Killing Joke,dc,terror
+467,K-On! Vol.2,animanga,fantasía
+468,Hellboy: Seed of Destruction,miscellaneous,fantasía
+469,Venom (2018) #1,marvel,comedia
+470,Aquaman (2018) #6,dc,cotidiano
+471,Nichijou Vol.1,animanga,terror
+472,Hellboy: Seed of Destruction,miscellaneous,comedia
+473,Venom (2018) #1,marvel,superhéroes
+474,Green Lantern: Blackest Night,dc,fantasía
+475,Tokyo Ghoul Vol.2,animanga,suspenso
+476,Kick-Ass Vol.1,miscellaneous,suspenso
+477,Venom (2018) #1,marvel,cotidiano
+478,The Joker: Killing Joke,dc,comedia
+479,Attack on Titan Vol.3,animanga,acción
+480,Sin City: The Hard Goodbye,miscellaneous,suspenso
+481,Thor: God of Thunder,marvel,terror
+482,Superman: Red Son,dc,fantasía
+483,Tokyo Ghoul Vol.2,animanga,cotidiano
+484,Locke & Key Vol.1,miscellaneous,superhéroes
+485,Wolverine: Origins,marvel,cotidiano
+486,Green Lantern: Blackest Night,dc,suspenso
+487,Chainsaw Man Vol.1,animanga,fantasía
+488,Invincible Vol.2,miscellaneous,cotidiano
+489,X-Men: Dark Phoenix Saga,marvel,comedia
+490,Wonder Woman (2017) #4,dc,superhéroes
+491,Naruto Vol.1,animanga,acción
+492,300,miscellaneous,acción
+493,Thor: God of Thunder,marvel,fantasía
+494,Superman: Red Son,dc,fantasía
+495,K-On! Vol.2,animanga,fantasía
+496,Locke & Key Vol.1,miscellaneous,suspenso
+497,Wolverine: Origins,marvel,comedia
+498,Green Lantern: Blackest Night,dc,superhéroes
+499,Attack on Titan Vol.3,animanga,fantasía
+500,Saga Vol.1,miscellaneous,cotidiano
+501,Iron Man (2020) #5,marvel,fantasía
+502,The Flash: Rebirth,dc,acción
+503,Tokyo Ghoul Vol.2,animanga,superhéroes
+504,300,miscellaneous,suspenso
+505,Avengers: Endgame Prelude,marvel,terror
+506,Justice League: Origin,dc,suspenso
+507,Attack on Titan Vol.3,animanga,fantasía
+508,Watchmen,miscellaneous,acción
+509,Black Panther (2018) #2,marvel,comedia
+510,Superman: Red Son,dc,fantasía
+511,One Piece Vol.2,animanga,comedia
+512,300,miscellaneous,comedia
+513,Doctor Strange (2016) #3,marvel,fantasía
+514,Green Lantern: Blackest Night,dc,comedia
+515,Demon Slayer Vol.3,animanga,suspenso
+516,Locke & Key Vol.1,miscellaneous,superhéroes
+517,Black Panther (2018) #2,marvel,acción
+518,Aquaman (2018) #6,dc,suspenso
+519,Demon Slayer Vol.3,animanga,terror
+520,Watchmen,miscellaneous,cotidiano
+521,Avengers: Endgame Prelude,marvel,superhéroes
+522,Justice League: Origin,dc,acción
+523,Attack on Titan Vol.3,animanga,cotidiano
+524,Sandman Vol.1,miscellaneous,fantasía
+525,Spider-Man: Blue,marvel,superhéroes
+526,Wonder Woman (2017) #4,dc,superhéroes
+527,Attack on Titan Vol.3,animanga,superhéroes
+528,Watchmen,miscellaneous,superhéroes
+529,Iron Man (2020) #5,marvel,superhéroes
+530,Shazam! (2019) #1,dc,cotidiano
+531,K-On! Vol.2,animanga,fantasía
+532,The Walking Dead Vol.1,miscellaneous,terror
+533,Spider-Man: Blue,marvel,cotidiano
+534,Batman: Hush,dc,terror
+535,Attack on Titan Vol.3,animanga,cotidiano
+536,Hellboy: Seed of Destruction,miscellaneous,suspenso
+537,Avengers: Endgame Prelude,marvel,superhéroes
+538,The Joker: Killing Joke,dc,comedia
+539,K-On! Vol.2,animanga,comedia
+540,Hellboy: Seed of Destruction,miscellaneous,suspenso
+541,X-Men: Dark Phoenix Saga,marvel,cotidiano
+542,Justice League: Origin,dc,terror
+543,My Hero Academia Vol.1,animanga,cotidiano
+544,Sin City: The Hard Goodbye,miscellaneous,terror
+545,Spider-Man: Blue,marvel,comedia
+546,The Joker: Killing Joke,dc,comedia
+547,Nichijou Vol.1,animanga,comedia
+548,Saga Vol.1,miscellaneous,terror
+549,Black Panther (2018) #2,marvel,acción
+550,Aquaman (2018) #6,dc,fantasía
+551,Nichijou Vol.1,animanga,acción
+552,Sin City: The Hard Goodbye,miscellaneous,cotidiano
+553,Wolverine: Origins,marvel,cotidiano
+554,Green Lantern: Blackest Night,dc,cotidiano
+555,Demon Slayer Vol.3,animanga,comedia
+556,Locke & Key Vol.1,miscellaneous,fantasía
+557,Spider-Man: Blue,marvel,comedia
+558,Superman: Red Son,dc,superhéroes
+559,K-On! Vol.2,animanga,comedia
+560,Watchmen,miscellaneous,cotidiano
+561,Thor: God of Thunder,marvel,superhéroes
+562,The Flash: Rebirth,dc,fantasía
+563,Chainsaw Man Vol.1,animanga,comedia
+564,Kick-Ass Vol.1,miscellaneous,comedia
+565,Thor: God of Thunder,marvel,cotidiano
+566,Green Lantern: Blackest Night,dc,fantasía
+567,Attack on Titan Vol.3,animanga,cotidiano
+568,Watchmen,miscellaneous,superhéroes
+569,Doctor Strange (2016) #3,marvel,suspenso
+570,Aquaman (2018) #6,dc,comedia
+571,Attack on Titan Vol.3,animanga,comedia
+572,Kick-Ass Vol.1,miscellaneous,comedia
+573,Spider-Man: Blue,marvel,fantasía
+574,Wonder Woman (2017) #4,dc,cotidiano
+575,Dragon Ball Vol.10,animanga,suspenso
+576,The Walking Dead Vol.1,miscellaneous,acción
+577,Venom (2018) #1,marvel,terror
+578,The Flash: Rebirth,dc,cotidiano
+579,My Hero Academia Vol.1,animanga,superhéroes
+580,Kick-Ass Vol.1,miscellaneous,acción
+581,Doctor Strange (2016) #3,marvel,superhéroes
+582,Justice League: Origin,dc,suspenso
+583,Demon Slayer Vol.3,animanga,comedia
+584,Invincible Vol.2,miscellaneous,superhéroes
+585,Captain America (2019) #10,marvel,suspenso
+586,Wonder Woman (2017) #4,dc,suspenso
+587,K-On! Vol.2,animanga,superhéroes
+588,Sin City: The Hard Goodbye,miscellaneous,cotidiano
+589,Black Panther (2018) #2,marvel,fantasía
+590,Justice League: Origin,dc,superhéroes
+591,K-On! Vol.2,animanga,cotidiano
+592,Locke & Key Vol.1,miscellaneous,fantasía
+593,Venom (2018) #1,marvel,acción
+594,Batman: Hush,dc,fantasía
+595,Dragon Ball Vol.10,animanga,comedia
+596,Sin City: The Hard Goodbye,miscellaneous,comedia
+597,Doctor Strange (2016) #3,marvel,comedia
+598,Superman: Red Son,dc,suspenso
+599,Nichijou Vol.1,animanga,fantasía
+600,The Walking Dead Vol.1,miscellaneous,terror
+601,Iron Man (2020) #5,marvel,comedia
+602,Wonder Woman (2017) #4,dc,suspenso
+603,One Piece Vol.2,animanga,acción
+604,The Walking Dead Vol.1,miscellaneous,fantasía
+605,Venom (2018) #1,marvel,fantasía
+606,The Joker: Killing Joke,dc,superhéroes
+607,One Piece Vol.2,animanga,suspenso
+608,Hellboy: Seed of Destruction,miscellaneous,comedia
+609,Black Panther (2018) #2,marvel,cotidiano
+610,Aquaman (2018) #6,dc,acción
+611,K-On! Vol.2,animanga,acción
+612,Sandman Vol.1,miscellaneous,acción
+613,Avengers: Endgame Prelude,marvel,acción
+614,Justice League: Origin,dc,suspenso
+615,Attack on Titan Vol.3,animanga,terror
+616,The Walking Dead Vol.1,miscellaneous,acción
+617,Iron Man (2020) #5,marvel,comedia
+618,Wonder Woman (2017) #4,dc,suspenso
+619,Dragon Ball Vol.10,animanga,fantasía
+620,Watchmen,miscellaneous,suspenso
+621,Thor: God of Thunder,marvel,comedia
+622,Nightwing (2016) #8,dc,cotidiano
+623,Dragon Ball Vol.10,animanga,terror
+624,Sin City: The Hard Goodbye,miscellaneous,suspenso
+625,X-Men: Dark Phoenix Saga,marvel,terror
+626,Shazam! (2019) #1,dc,terror
+627,Dragon Ball Vol.10,animanga,superhéroes
+628,Sin City: The Hard Goodbye,miscellaneous,acción
+629,Spider-Man: Blue,marvel,terror
+630,Nightwing (2016) #8,dc,terror
+631,Tokyo Ghoul Vol.2,animanga,acción
+632,The Walking Dead Vol.1,miscellaneous,terror
+633,X-Men: Dark Phoenix Saga,marvel,comedia
+634,Nightwing (2016) #8,dc,comedia
+635,My Hero Academia Vol.1,animanga,suspenso
+636,Saga Vol.1,miscellaneous,acción
+637,X-Men: Dark Phoenix Saga,marvel,terror
+638,Nightwing (2016) #8,dc,superhéroes
+639,Dragon Ball Vol.10,animanga,suspenso
+640,Invincible Vol.2,miscellaneous,superhéroes
+641,X-Men: Dark Phoenix Saga,marvel,comedia
+642,Wonder Woman (2017) #4,dc,fantasía
+643,Dragon Ball Vol.10,animanga,superhéroes
+644,Saga Vol.1,miscellaneous,superhéroes
+645,Iron Man (2020) #5,marvel,superhéroes
+646,Batman: Hush,dc,terror
+647,Bleach Vol.5,animanga,superhéroes
+648,Locke & Key Vol.1,miscellaneous,fantasía
+649,Thor: God of Thunder,marvel,comedia
+650,Wonder Woman (2017) #4,dc,comedia
+651,One Piece Vol.2,animanga,fantasía
+652,Locke & Key Vol.1,miscellaneous,fantasía
+653,Captain America (2019) #10,marvel,suspenso
+654,The Joker: Killing Joke,dc,cotidiano
+655,One Piece Vol.2,animanga,acción
+656,Watchmen,miscellaneous,acción
+657,Spider-Man: Blue,marvel,comedia
+658,Aquaman (2018) #6,dc,suspenso
+659,Tokyo Ghoul Vol.2,animanga,superhéroes
+660,The Walking Dead Vol.1,miscellaneous,cotidiano
+661,Venom (2018) #1,marvel,fantasía
+662,Justice League: Origin,dc,acción
+663,Tokyo Ghoul Vol.2,animanga,fantasía
+664,Sin City: The Hard Goodbye,miscellaneous,comedia
+665,X-Men: Dark Phoenix Saga,marvel,superhéroes
+666,The Flash: Rebirth,dc,fantasía
+667,Tokyo Ghoul Vol.2,animanga,fantasía
+668,The Walking Dead Vol.1,miscellaneous,acción
+669,Black Panther (2018) #2,marvel,cotidiano
+670,Batman: Hush,dc,superhéroes
+671,Bleach Vol.5,animanga,cotidiano
+672,Hellboy: Seed of Destruction,miscellaneous,cotidiano
+673,Spider-Man: Blue,marvel,fantasía
+674,The Flash: Rebirth,dc,cotidiano
+675,My Hero Academia Vol.1,animanga,cotidiano
+676,300,miscellaneous,comedia
+677,Venom (2018) #1,marvel,acción
+678,Superman: Red Son,dc,acción
+679,My Hero Academia Vol.1,animanga,fantasía
+680,Sin City: The Hard Goodbye,miscellaneous,comedia
+681,Avengers: Endgame Prelude,marvel,comedia
+682,Aquaman (2018) #6,dc,terror
+683,Attack on Titan Vol.3,animanga,cotidiano
+684,Sin City: The Hard Goodbye,miscellaneous,cotidiano
+685,Black Panther (2018) #2,marvel,superhéroes
+686,Green Lantern: Blackest Night,dc,cotidiano
+687,Chainsaw Man Vol.1,animanga,comedia
+688,Hellboy: Seed of Destruction,miscellaneous,terror
+689,Captain America (2019) #10,marvel,terror
+690,Green Lantern: Blackest Night,dc,comedia
+691,Bleach Vol.5,animanga,cotidiano
+692,Invincible Vol.2,miscellaneous,acción
+693,Black Panther (2018) #2,marvel,cotidiano
+694,Green Lantern: Blackest Night,dc,fantasía
+695,One Piece Vol.2,animanga,terror
+696,Sandman Vol.1,miscellaneous,suspenso
+697,Thor: God of Thunder,marvel,fantasía
+698,Aquaman (2018) #6,dc,cotidiano
+699,Nichijou Vol.1,animanga,cotidiano
+700,Invincible Vol.2,miscellaneous,acción
+701,Black Panther (2018) #2,marvel,cotidiano
+702,Green Lantern: Blackest Night,dc,comedia
+703,Attack on Titan Vol.3,animanga,suspenso
+704,Locke & Key Vol.1,miscellaneous,cotidiano
+705,Iron Man (2020) #5,marvel,fantasía
+706,The Joker: Killing Joke,dc,fantasía
+707,K-On! Vol.2,animanga,terror
+708,Locke & Key Vol.1,miscellaneous,fantasía
+709,Black Panther (2018) #2,marvel,comedia
+710,The Joker: Killing Joke,dc,cotidiano
+711,Dragon Ball Vol.10,animanga,suspenso
+712,The Walking Dead Vol.1,miscellaneous,terror
+713,Venom (2018) #1,marvel,superhéroes
+714,Superman: Red Son,dc,acción
+715,Chainsaw Man Vol.1,animanga,terror
+716,300,miscellaneous,comedia
+717,Spider-Man: Blue,marvel,cotidiano
+718,Justice League: Origin,dc,fantasía
+719,One Piece Vol.2,animanga,acción
+720,Saga Vol.1,miscellaneous,fantasía
+721,Black Panther (2018) #2,marvel,acción
+722,Justice League: Origin,dc,comedia
+723,Bleach Vol.5,animanga,suspenso
+724,The Walking Dead Vol.1,miscellaneous,terror
+725,Iron Man (2020) #5,marvel,acción
+726,Green Lantern: Blackest Night,dc,terror
+727,K-On! Vol.2,animanga,suspenso
+728,The Walking Dead Vol.1,miscellaneous,fantasía
+729,Black Panther (2018) #2,marvel,superhéroes
+730,Superman: Red Son,dc,terror
+731,Tokyo Ghoul Vol.2,animanga,superhéroes
+732,Invincible Vol.2,miscellaneous,comedia
+733,Venom (2018) #1,marvel,comedia
+734,The Joker: Killing Joke,dc,terror
+735,Bleach Vol.5,animanga,terror
+736,Sandman Vol.1,miscellaneous,suspenso
+737,Avengers: Endgame Prelude,marvel,suspenso
+738,Green Lantern: Blackest Night,dc,cotidiano
+739,Chainsaw Man Vol.1,animanga,superhéroes
+740,Watchmen,miscellaneous,fantasía
+741,Black Panther (2018) #2,marvel,superhéroes
+742,Justice League: Origin,dc,terror
+743,Dragon Ball Vol.10,animanga,cotidiano
+744,Kick-Ass Vol.1,miscellaneous,fantasía
+745,Captain America (2019) #10,marvel,superhéroes
+746,Batman: Hush,dc,acción
+747,Attack on Titan Vol.3,animanga,fantasía
+748,Sin City: The Hard Goodbye,miscellaneous,terror
+749,Thor: God of Thunder,marvel,terror
+750,Nightwing (2016) #8,dc,terror
